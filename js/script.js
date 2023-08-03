@@ -15,3 +15,4 @@ document.addEventListener("click", function (e) {
 });
 
 // INI TESS AJA
+// ngetess lagiiiii
